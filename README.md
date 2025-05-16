@@ -59,7 +59,8 @@ Example maze files following this format are included in the `mazes/` directory.
 
 ## Demonstration
 
-
+![maze_01](https://github.com/user-attachments/assets/c6bfd980-a06a-4716-8872-61f31ad50ec9)
+![maze_02](https://github.com/user-attachments/assets/3afcdc89-9b7a-4ae7-ac0a-cccdbdfe25f8)
 
 ## License
 
